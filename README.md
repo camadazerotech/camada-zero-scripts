@@ -7,6 +7,7 @@ Cada vídeo tem uma pasta própria, com os scripts e um README explicando o que 
 | Vídeo | Pasta | O que tem |
 |---|---|---|
 | 001 — vSphere 8 perde o suporte em 2027 | [`001-vsphere8-fim-suporte/`](001-vsphere8-fim-suporte/) | Inventário de versões e cores; checagem da correção VMSA-2026-0006 e cores licenciáveis (govc, somente leitura) |
+| 002 — Licenciamento VMware: contando cores do jeito certo | [`002-licenciamento-vmware-cores/`](002-licenciamento-vmware-cores/) | Cálculo de cores licenciáveis por host e cluster (KB 313548), vSAN incluído em VCF/VVF e teste do limite do vSphere Express (govc, somente leitura) |
 
 ## ⚠️ Aviso
 
